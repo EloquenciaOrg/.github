@@ -1,6 +1,6 @@
-# 🎤 Eloquéncia
+# 🎤 Rhétoria
 
-Welcome to the Github Organization of Eloquéncia.
+Welcome to the Github Organization of Rhétoria.
 
 ## About
 [Eloquéncia](https://eloquencia.org) is a french non-profit organization aiming to promote public speaking for everyone and web based.
